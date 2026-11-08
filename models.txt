@@ -1,0 +1,4 @@
+kokoro-multi-lang-v1_0
+sherpa-onnx-supertonic-3-tts-int8-2026-05-11
+vits-piper-no_NO-talesyntese-medium
+vits-piper-sq_AL-edon-medium
